@@ -1,0 +1,16 @@
+id: PCCC471FD
+initial_creation_type: input
+source_metadata:
+  title: Dzogrim Series
+  language: en
+  description: 'Texts related to the perfection or completion phase, known in Tibetan
+    as Dzogrim (rdzogs rim):'
+  volume:
+    98c7877a46a84c93a799010c93fd1547:
+      title: Notes on the Heart-Essence Practices of the Channels and Wind-Energies
+      parent: Tsa Lung
+    239cae70fc3b411c91b6499fb4f6eca1:
+      title: 'The Vajra Verses: A Prayer of the Fierce Inner Heat'
+      parent: Tummo
+created_at: '2022-03-01T03:37:47.238304'
+last_modified_at: '2022-03-01T03:37:47.238310'
